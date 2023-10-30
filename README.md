@@ -1,0 +1,2 @@
+# cli
+PostWP CLI
